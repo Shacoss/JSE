@@ -2,11 +2,11 @@
 
 #### 1. Требования к  SOFTWARE
 
-- JDK 11
+- OPENJDK 11
 
 #### 2. Стек технологий
 
-- Maven
+- Apache Maven
 
 #### 3. Разработчик
 Name: Koptev Anton
@@ -28,8 +28,8 @@ Email: koptev_av@nlmk.com
 #### 5. Команды для запуска приложения
 
 Команда для запуска приложения:
-```
-java -jar jse-03-1.0-SNAPSHOT.jar
+```bash
+java -jar target/jse-04-1.0-SNAPSHOT.jar
 ```  
 
 Терминальные команды:
@@ -38,12 +38,14 @@ java -jar jse-03-1.0-SNAPSHOT.jar
 
 * version - Отображение версии программы;
 
-* about - Отображение информации об разработчике.
+* about - Отображение информации об разработчике;
+
+* exit - Выход из программы.
 
 Пример запуска приложения с теринальной командой:
 
-```
-java -jar jse-03-1.0-SNAPSHOT.jar help
+```bash
+java -jar target/jse-04-1.0-SNAPSHOT.jar help
 ```
 
 
