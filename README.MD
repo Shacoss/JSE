@@ -1,5 +1,9 @@
 # Task Manager
 
+#### 0. Mirroring repositories ####
+
+https://github.com/Shacoss/JSE
+
 #### 1. Требования к  SOFTWARE
 
 - OPENJDK 11
