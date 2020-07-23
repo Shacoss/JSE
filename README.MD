@@ -33,7 +33,7 @@ Email: koptev_av@nlmk.com
 
 Команда для запуска приложения:
 ```bash
-java -jar target/jse-04-1.0-SNAPSHOT.jar
+java -jar target/taskmanager-1.0.7.jar
 ```  
 
 Терминальные команды:
@@ -61,7 +61,7 @@ java -jar target/jse-04-1.0-SNAPSHOT.jar
 Пример запуска приложения с теринальной командой:
 
 ```bash
-java -jar target/jse-04-1.0-SNAPSHOT.jar help
+java -jar target/taskmanager-1.0.7.jar help
 ```
 
 
